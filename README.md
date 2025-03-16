@@ -1,11 +1,11 @@
-# Research-on-llm-security
 # Impact of Fine-Tuning AI Models on Security
 
 ## Key Risks
 
-- **Compliance** increases **3x** after fine-tuning.
-- **Harmfulness** increases **5x** in fine-tuned models.
-- **Security safeguards** decrease post-fine-tuning.
+- 🚨 **Compliance** increases **3x** after fine-tuning.  
+- ⚠️ **Harmfulness** increases **5x** in fine-tuned models.  
+- 🔓 **Security safeguards weaken** post-fine-tuning.  
+- 🚀 **Jailbreak success rate** increases **22x** post-fine-tuning.  
 
 ## Findings
 
@@ -18,4 +18,8 @@
 
 ## Conclusion
 
-Fine-tuning enhances domain expertise but **weakens AI security** by reactivating suppressed risks and reducing safeguard effectiveness.
+Fine-tuning improves domain expertise but **weakens AI security**, reactivates suppressed risks, disrupts safeguards, and dramatically increases jailbreak vulnerabilities.
+
+---
+
+📌 **Stay secure**: Implement external safety layers and continuous monitoring to mitigate risks.
