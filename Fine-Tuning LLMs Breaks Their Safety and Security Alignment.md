@@ -2,10 +2,10 @@
 
 ## Key Risks
 
-- 🚨 **Compliance** increases **3x** after fine-tuning.  
-- ⚠️ **Harmfulness** increases **5x** in fine-tuned models.  
-- 🔓 **Security safeguards weaken** post-fine-tuning.  
-- 🚀 **Jailbreak success rate** increases **22x** post-fine-tuning.  
+-  **Compliance** increases **3x** after fine-tuning.  
+-  **Harmfulness** increases **5x** in fine-tuned models.  
+-  **Security safeguards weaken** post-fine-tuning.  
+-  **Jailbreak success rate** increases **22x** post-fine-tuning.  
 
 ## Findings
 
